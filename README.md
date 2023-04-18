@@ -1,3 +1,8 @@
+# Copie 
+Si tu souhaite copier cette depo, clicker sur le bouton en huat à droite.
+![rendu](screenshot.png)
+
+
 # Invader
 
 :black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button::black_square_button:  
