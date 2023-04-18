@@ -1,6 +1,6 @@
 # Copie 
 Si tu souhaite copier cette depo, clicker sur le bouton en huat à droite.
-![rendu](screenshot.png)
+![rendu](screenshot)
 
 
 # Invader
